@@ -2543,7 +2543,7 @@ html {
   color: rgb(255 255 255 / var(--tw-text-opacity, 1));
 }
 
-@media (min-width: 768px) {
+@media (min-width: 330px) {
   .mobile\:-bottom-\[20px\] {
     bottom: -20px;
   }
@@ -2620,7 +2620,9 @@ html {
   .mobile\:leading-\[30px\] {
     line-height: 30px;
   }
+}
 
+@media (min-width: 768px) {
   .tablet\:-bottom-\[20px\] {
     bottom: -20px;
   }
