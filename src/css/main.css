@@ -2500,16 +2500,6 @@ html {
   outline-color: currentColor;
 }
 
-@media (min-width: 768px) {
-  .mobile\:hidden {
-    display: none !important;
-  }
-
-  .tablet\:hidden {
-    display: none !important;
-  }
-}
-
 .hover\:bg-\[\#000000bb\]:hover {
   background-color: #000000bb;
 }
